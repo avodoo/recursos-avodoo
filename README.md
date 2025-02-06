@@ -25,7 +25,7 @@ El contenido de este repositorio incluye:
 
 ## **Manuales Disponibles**
 
-- [ODDO - Manual Gestión Contable REV022025](manuales/ODDO-MANUAL-GESTION-CONTABLE-REV022025.pdf):  
+- [ODDO - Manual Gestión Contable REV022025](/manuales/ODOO-MANUAL-GESTION-CONTABLE-REV022025.pdf):  
   Este manual proporciona una guía de ejemplo sobre la gestión contable en Odoo, adaptada al contexto venezolano según una de las localizaciones de los partners oficiales (@CorpoEureka).
 
 
